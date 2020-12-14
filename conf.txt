@@ -1,0 +1,1 @@
+path = D:\Develops\DB\PhotoCPro\PhotoCProDB.sql
